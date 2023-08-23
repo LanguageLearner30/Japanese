@@ -3,7 +3,7 @@
 Now, updated to "日語達人_N5_大阪_問答" "30th" (i.e. 30th round of 大阪 in N5).
 
 ## 2023/08/23
-These are updated.
+These are updated. But I will learn Japanese and updated them unless the item is marked as "finished".
 
   1. All vocabulary of N5 in 日語達人 (finished)
      
