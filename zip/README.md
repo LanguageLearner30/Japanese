@@ -11,5 +11,15 @@ These are updated. But I will learn Japanese and updated them unless the item is
   3. Sentences in Japanese
   4. Some basic grammar  in Japanese
 
+## 2023/08/30
+Update
+
+  1. Vocabulary in Japanese
+  2. Sentences in Japanese
+
+Added
   
+  1. 385 Sentences which is edited by Ken. (The sentences and referenced links can be seen in the file "..\Japanese\Basic\單字\日常會話句子.xlsx")
+
+     
 
