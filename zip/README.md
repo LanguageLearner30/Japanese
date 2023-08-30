@@ -19,6 +19,7 @@ Update
 Added
 
     1. 385 Sentences which is edited by Ken. (The sentences and referenced links can be seen in the file "..\Japanese\Basic\單字\日常會話句子.xlsx")
-
+    2. Roles about Japanese Anime (the worksheet 動漫相關術語 and <<前輩有夠煩>> )
+    (it can be seen in the file "..\Japanese\Basic\單字\娛樂\影集\日本\動漫.xlsx")
      
 
