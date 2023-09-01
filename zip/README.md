@@ -33,3 +33,8 @@ Added
     1.  Things about sex (such as genital organs, artificial sex toy, masturbation etc)
     (it can be seen in the file "..\Japanese\Basic\單字\學問\生物\性行為\性行為.xlsx" )
     
+## 2023/09/01
+Update 
+        
+    1. 【100個生活常用動詞】in Sakura YT tutorial.
+    (it is added in "..\Japanese\Basic\單字\日常會話句子\日常會話句子.xlsx" the worksheet "【100個生活常用動詞】")
