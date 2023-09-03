@@ -38,3 +38,13 @@ Update
         
     1. 【100個生活常用動詞】in Sakura YT tutorial.
     (it is added in "..\Japanese\Basic\單字\日常會話句子\日常會話句子.xlsx" the worksheet "【100個生活常用動詞】")
+
+## 2023/09/03
+Added
+    
+    1. 【100個生活常用動詞】in Sakura YT tutorial.
+    (it is added in "..\Japanese\Basic\單字\日常會話句子\日常會話句子.xlsx" the worksheet "【100個生活常用動詞】 (工作篇)")
+
+Rename
+        
+    1. 【100個生活常用動詞】 as 【100個生活常用動詞】(生活篇)
